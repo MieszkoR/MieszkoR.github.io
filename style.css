@@ -1,18 +1,39 @@
-.download{
-background-color: #DBE9EE;
-  box-sizing: border-box;
-  padding: 40px;
-  text-align: center;
-  width: 100%;
-  position: relative;
-  top: 200px;
+.a{
+	background:transparent;
+ position:relative;
+ z-index:-1;
+ margin:0 auto;
+ background-color:green;
+ left-side:10px;
+	margin-left: -10px;
+margin-top:-35px;
+	height:60px;
+	width:200000px;
 }
 
-.a{
-	border-bottom: 1px solid LightGrey;
-  border-top: 1px solid LightGrey;
-  color: DarkGrey;
-  font-size: 14px;
-  font-weight: 200;
+h1{
+	margin-left: 10px;
+	margin-top:15px;
+	position:relative;top:12px;
+	z-index:-1;
 	
 }
+h2{
+	color:black;
+	margin-left: 1000px;
+	margin-top:1px;
+	position:relative;top:-54px;left:10px;
+	z-index=2;
+	border-right-color: black;
+	border-right-width: 10px;
+	
+	
+}
+
+.otherPage {
+    color: black;
+    border: 1px solid black;
+	display: inline-block;
+	 padding: 10px 20px;
+}
+
