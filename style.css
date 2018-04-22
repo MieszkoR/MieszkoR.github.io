@@ -1,0 +1,18 @@
+.download{
+background-color: #DBE9EE;
+  box-sizing: border-box;
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 200px;
+}
+
+.a{
+	border-bottom: 1px solid LightGrey;
+  border-top: 1px solid LightGrey;
+  color: DarkGrey;
+  font-size: 14px;
+  font-weight: 200;
+	
+}
