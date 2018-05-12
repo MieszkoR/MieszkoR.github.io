@@ -1,5 +1,3 @@
-
-
 .a{
 	background:transparent;
  position:fixed;
@@ -37,13 +35,12 @@ h2{
     border: 1px solid black;
 	display: inline-block;
 	 padding: 10px 20px;
-	 position:relative;top:50px;left:2%;
+	 position:relative;top:50px;Right:40%;
 }
 .otherPag {
     color: black;
     border: 1px solid black;
 	display: inline-block;
 	 padding: 10px 20px;
-	  position:relative;top:50px;left:2%;
+	  position:relative;top:50px;Right:40%;
 }
-
